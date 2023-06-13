@@ -1,5 +1,5 @@
 ## ⚙️ Deployment
-Checkout the Live Website https://unsplash-clone-react-strapi.netlify.app/
+This is a backedn repo, to Checkout frontend take a look: https://unsplash-clone-react-strapi.netlify.app/
 
 ----------------------------------------------------------------------------------
 
